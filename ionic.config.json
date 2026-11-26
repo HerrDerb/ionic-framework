@@ -1,0 +1,7 @@
+{
+  "name": "ionic-menu-swipe-race",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
